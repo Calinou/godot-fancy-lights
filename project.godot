@@ -22,7 +22,3 @@ config/icon="res://icon.png"
 [editor_plugins]
 
 enabled=PoolStringArray( "fancy_lights" )
-
-[rendering]
-
-environment/default_environment="res://default_env.tres"
